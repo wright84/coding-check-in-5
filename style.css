@@ -4,24 +4,28 @@ h1{
   font: helvetica;
   font-family: sans-serif;
   color: lightseagreen;
-  margin: 0;
+  margin: 1;
+  text-align: center;
+  background-color: slategray;
 }
 
 #title-sub-heading{
   font:georgia;
   font-family: serif;
-  font-size: 40px;
-  font-style: italic;
-  margin: 0;
+  font-size: 20px;
 }
 
 #copyright{
   font: georgia;
   font-family: serif;
   font-size: 10px;
-  margin: 0;
 }
 
+#introduction{
+  text-align: center;
+  border: 5px dashed lightseagreen;
+  margin: 1;
+}
 
 h2{
   font-weight: 750;
@@ -29,7 +33,7 @@ h2{
   font-family: sans-serif;
   font-size: 45px;
   color: lightseagreen;
-  margin: 0;
+  margin-bottom: 0;
 }
 
 .recipe-title{
@@ -38,4 +42,19 @@ h2{
   font-size: 30px;
   color: lightseagreen;
   margin: 0;
+}
+
+.recipe-sub-heading{
+  font: helvetica;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: lightseagreen;
+  font-style: italic;
+}
+
+.helpful-hint{
+  font: georgia;
+  font-family: serif;
+  font-size: 15px;
+  font-style: italic;
 }
