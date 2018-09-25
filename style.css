@@ -1,10 +1,6 @@
-/* your CSS goes into this file. For example:
-
-p {
-  color: #ff00ff;
-  text-decoration: underline;
+h1{
+  font-weight: 900;
+  font: helvetica;
+  font-family: sans-serif;
+  color: lightseagreen;
 }
-
-btw, this is a CSS comment. Feel free to delete it.
-
- */
